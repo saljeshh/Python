@@ -55,3 +55,27 @@ print(fruits)
 print("Reveresed again...")
 fruits.sort(reverse=True)
 print(fruits)
+
+
+#  =============
+print('\n\n\n')
+countries = ['United Kingdom', 'Ghana', 'Nigeria', 'Australia']
+print(countries)
+
+# gets the first letter of the list
+print(countries[2][0])
+
+# get only list from ghana to austraila
+print(countries[1:])
+print(countries[2:])
+
+# Replaced US with uk
+countries[0] = 'united states'
+print(countries)
+
+name = 'tomi'
+print(type(name))
+
+# print last
+print(countries[-1])
+
