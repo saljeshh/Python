@@ -1,0 +1,5 @@
+I was made by default
+ I was made by him new line
+ I was made by him new lineprint('
+ I was made for py file')
+ I was made by him new lineprint('\I was made for py file')
