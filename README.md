@@ -1,2 +1,2 @@
-# Positng about baisc python
-# Journey to learn PYTHON FOR ML 
+Positng about basic python.
+Journey to learn PYTHON FOR ML.
