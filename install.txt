@@ -1,0 +1,9 @@
+pip install django
+pip install virtualenvwrapper-win
+mkvirtualenv myapp
+
+django-admin startproject myapp
+
+deactivate
+
+again enter viratual - workon {name}
