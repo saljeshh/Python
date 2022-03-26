@@ -1,3 +1,5 @@
+# Namespace is an area where you create and store object/variable
+
 class Car:
     #if we define variable inside class it becomes class variables
 
@@ -12,6 +14,8 @@ c1 = Car()
 c2 = Car()
 
 c1.mileage = 9
+
+Car.wheels = 12
 
 # We can use either object name or class name for class variables
 print(c1.company, c1.mileage ,c1.wheels)
